@@ -8,6 +8,7 @@ Este projeto implementa as funcionalidades básicas de um iPhone, incluindo repr
 - `com.iphone2017.implementations`: Contém as implementações das interfaces.
 - `com.iphone2017.tests`: Contém a classe principal para testar as funcionalidades.
 
+
 - ![image](https://github.com/teofilonicolau/dio_lancamento_-iPhone_2007/assets/97030160/8e69cce4-f500-4a8f-b1b0-5f0ffe13164e)
 
 
