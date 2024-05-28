@@ -1,6 +1,6 @@
-package com.iphone2017.implementations;
+package com.iphone2017.model;
 
-import com.iphone2017.interfaces.NavegacaoWeb;
+import com.iphone2017.model.interfaces.NavegacaoWeb;
 
 public class NavegadorInternet implements NavegacaoWeb {
     @Override

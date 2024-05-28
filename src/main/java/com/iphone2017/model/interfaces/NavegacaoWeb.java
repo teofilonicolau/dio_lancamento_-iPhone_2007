@@ -1,4 +1,4 @@
-package com.iphone2017.interfaces;
+package com.iphone2017.model.interfaces;
 
 public interface NavegacaoWeb {
     void abrirPagina(String url);

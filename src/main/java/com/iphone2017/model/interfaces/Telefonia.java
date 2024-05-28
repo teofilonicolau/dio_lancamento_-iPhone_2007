@@ -1,4 +1,4 @@
-package com.iphone2017.interfaces;
+package com.iphone2017.model.interfaces;
 
 public interface Telefonia {
     void fazerChamada(String numero);

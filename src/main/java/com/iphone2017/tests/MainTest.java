@@ -1,8 +1,8 @@
 package com.iphone2017.tests;
 
-import com.iphone2017.implementations.AparelhoTelefonico;
-import com.iphone2017.implementations.NavegadorInternet;
-import com.iphone2017.implementations.ReprodutorMusical;
+import com.iphone2017.model.AparelhoTelefonico;
+import com.iphone2017.model.NavegadorInternet;
+import com.iphone2017.model.ReprodutorMusical;
 
 public class MainTest {
     public static void main(String[] args) {

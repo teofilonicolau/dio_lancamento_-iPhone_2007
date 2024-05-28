@@ -1,6 +1,6 @@
-package com.iphone2017.implementations;
+package com.iphone2017.model;
 
-import com.iphone2017.interfaces.Telefonia;
+import com.iphone2017.model.interfaces.Telefonia;
 
 public class AparelhoTelefonico implements Telefonia {
     @Override

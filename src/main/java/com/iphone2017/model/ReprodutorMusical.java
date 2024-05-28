@@ -1,7 +1,7 @@
-package com.iphone2017.implementations;
+package com.iphone2017.model;
 
 
-import com.iphone2017.interfaces.MediaContro;
+import com.iphone2017.model.interfaces.MediaContro;
 
 public class ReprodutorMusical implements MediaContro.MediaControl {
         @Override
